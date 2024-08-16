@@ -1,0 +1,6 @@
+# ninja log v5
+5	535	7569547416027613	CMakeFiles/BMS.dir/main.cpp.obj	ce4eab64b0c4eac5
+408	513	7569548677776350	BMS.exe	84eb1a6344ff9326
+37	195	7569541220976886	CMakeFiles/BMS.dir/Bank.cpp.obj	b44a2a139a4b8612
+29	918	7569545797565471	CMakeFiles/BMS.dir/Customer.cpp.obj	9b2fc6b75fabadd8
+5	407	7569548676776938	CMakeFiles/BMS.dir/Account.cpp.obj	47751f679c4ede8c
