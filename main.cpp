@@ -23,6 +23,5 @@ int main() {
 
     cout << "Second Customer: ";
     michael_customer.display_cu_info();
-
     return 0;
 }

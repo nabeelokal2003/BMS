@@ -59,6 +59,10 @@ string Account::getAccDate() const {
 void Account::setAccDate(string acc_date) {
   acc_date = acc_date;
 }
+int Account::getBal(){
+    return balance;
+}
+
 void Account::display_acc_info() {
     cout << "Account Name: " << acc_name << endl;
     cout << "Account Number: " << acc_num << endl;

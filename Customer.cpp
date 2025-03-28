@@ -13,10 +13,17 @@ void Customer::add_bankAcc(Account new_acc){
 //void Customer::del_bankAcc(Account acc){
 //    for(int i {0}; i < bank_accounts.size(); i++) {
 //        if(bank_accounts.at(i) == acc)
-////            bank_accounts.erase();        ??
+//            bank_accounts.erase();        ??
 //    }
 //    cout << "Bank Account has been successfully deleted!" << endl;
 //}
+void Customer::del_bankAcc(Account acc){
+    for(int i {0}; i < bank_accounts.size(); i++) {
+        if(bank_accounts.at(i) == acc)
+//            bank_accounts.erase();        ??
+    }
+    cout << "Bank Account has been successfully deleted!" << endl;
+}
 
 void Customer::update_c_name(string new_name){
     c_name = new_name;

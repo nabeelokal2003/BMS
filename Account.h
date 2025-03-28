@@ -8,6 +8,7 @@
 using namespace std;
 
 class Account{
+private:
     string acc_name;
     long acc_num;
     int balance;
@@ -17,6 +18,10 @@ class Account{
 public:
     Account(string name, long num, int bal, string type, string date)
             : acc_name{name}, acc_num{num}, balance{bal}, acc_type{type}, acc_date{date} {}
+
+public:
+    Account(string name, long num, int bal, string type)
+            : acc_name{name}, acc_num{num}, balance{bal}, acc_type{type} {}
 
     void deposit(int amount);
     void withdraw(int amount, int bal);
@@ -37,6 +42,7 @@ public:
 
     string getAccDate() const;
     void setAccDate(string acc_date);
+    int getBal();
 };
 
 
