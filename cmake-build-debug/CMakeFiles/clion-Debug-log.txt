@@ -1,37 +1,16 @@
 /snap/clion/332/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/bin/make -DCMAKE_C_COMPILER=/usr/bin/cc -DCMAKE_CXX_COMPILER=/usr/bin/c++ -G "Unix Makefiles" -S /home/nabeel_okal/CLionProjects/BMS-master -B /home/nabeel_okal/CLionProjects/BMS-master/cmake-build-debug
-CMake Error: Parse error in cache file /home/nabeel_okal/CLionProjects/BMS-master/cmake-build-debug/CMakeCache.txt on line 2. Offending entry: <<<<<<< HEAD
-CMake Error: Parse error in cache file /home/nabeel_okal/CLionProjects/BMS-master/cmake-build-debug/CMakeCache.txt on line 8. Offending entry: >>>>>>> 6daea415aefad1cc1888666804a13fd4fc92510b
-CMake Error: Parse error in cache file /home/nabeel_okal/CLionProjects/BMS-master/cmake-build-debug/CMakeCache.txt on line 23. Offending entry: <<<<<<< HEAD
-CMake Error: Parse error in cache file /home/nabeel_okal/CLionProjects/BMS-master/cmake-build-debug/CMakeCache.txt on line 27. Offending entry: >>>>>>> 6daea415aefad1cc1888666804a13fd4fc92510b
-CMake Error: Parse error in cache file /home/nabeel_okal/CLionProjects/BMS-master/cmake-build-debug/CMakeCache.txt on line 33. Offending entry: <<<<<<< HEAD
-CMake Error: Parse error in cache file /home/nabeel_okal/CLionProjects/BMS-master/cmake-build-debug/CMakeCache.txt on line 49. Offending entry: >>>>>>> 6daea415aefad1cc1888666804a13fd4fc92510b
-CMake Error: Parse error in cache file /home/nabeel_okal/CLionProjects/BMS-master/cmake-build-debug/CMakeCache.txt on line 58. Offending entry: <<<<<<< HEAD
-CMake Error: Parse error in cache file /home/nabeel_okal/CLionProjects/BMS-master/cmake-build-debug/CMakeCache.txt on line 80. Offending entry: >>>>>>> 6daea415aefad1cc1888666804a13fd4fc92510b
-CMake Error: Parse error in cache file /home/nabeel_okal/CLionProjects/BMS-master/cmake-build-debug/CMakeCache.txt on line 97. Offending entry: <<<<<<< HEAD
-CMake Error: Parse error in cache file /home/nabeel_okal/CLionProjects/BMS-master/cmake-build-debug/CMakeCache.txt on line 122. Offending entry: >>>>>>> 6daea415aefad1cc1888666804a13fd4fc92510b
-CMake Error: Parse error in cache file /home/nabeel_okal/CLionProjects/BMS-master/cmake-build-debug/CMakeCache.txt on line 139. Offending entry: <<<<<<< HEAD
-CMake Error: Parse error in cache file /home/nabeel_okal/CLionProjects/BMS-master/cmake-build-debug/CMakeCache.txt on line 148. Offending entry: >>>>>>> 6daea415aefad1cc1888666804a13fd4fc92510b
-CMake Error: Parse error in cache file /home/nabeel_okal/CLionProjects/BMS-master/cmake-build-debug/CMakeCache.txt on line 169. Offending entry: <<<<<<< HEAD
-CMake Error: Parse error in cache file /home/nabeel_okal/CLionProjects/BMS-master/cmake-build-debug/CMakeCache.txt on line 194. Offending entry: >>>>>>> 6daea415aefad1cc1888666804a13fd4fc92510b
-CMake Error: Parse error in cache file /home/nabeel_okal/CLionProjects/BMS-master/cmake-build-debug/CMakeCache.txt on line 217. Offending entry: <<<<<<< HEAD
-CMake Error: Parse error in cache file /home/nabeel_okal/CLionProjects/BMS-master/cmake-build-debug/CMakeCache.txt on line 233. Offending entry: >>>>>>> 6daea415aefad1cc1888666804a13fd4fc92510b
-CMake Error: Parse error in cache file /home/nabeel_okal/CLionProjects/BMS-master/cmake-build-debug/CMakeCache.txt on line 245. Offending entry: <<<<<<< HEAD
-CMake Error: Parse error in cache file /home/nabeel_okal/CLionProjects/BMS-master/cmake-build-debug/CMakeCache.txt on line 273. Offending entry: >>>>>>> 6daea415aefad1cc1888666804a13fd4fc92510b
-CMake Error: Parse error in cache file /home/nabeel_okal/CLionProjects/BMS-master/cmake-build-debug/CMakeCache.txt on line 323. Offending entry: <<<<<<< HEAD
-CMake Error: Parse error in cache file /home/nabeel_okal/CLionProjects/BMS-master/cmake-build-debug/CMakeCache.txt on line 327. Offending entry: >>>>>>> 6daea415aefad1cc1888666804a13fd4fc92510b
-CMake Error: Parse error in cache file /home/nabeel_okal/CLionProjects/BMS-master/cmake-build-debug/CMakeCache.txt on line 348. Offending entry: <<<<<<< HEAD
-CMake Error: Parse error in cache file /home/nabeel_okal/CLionProjects/BMS-master/cmake-build-debug/CMakeCache.txt on line 376. Offending entry: >>>>>>> 6daea415aefad1cc1888666804a13fd4fc92510b
-CMake Error: Parse error in cache file /home/nabeel_okal/CLionProjects/BMS-master/cmake-build-debug/CMakeCache.txt on line 393. Offending entry: <<<<<<< HEAD
-CMake Error: Parse error in cache file /home/nabeel_okal/CLionProjects/BMS-master/cmake-build-debug/CMakeCache.txt on line 397. Offending entry: >>>>>>> 6daea415aefad1cc1888666804a13fd4fc92510b
-CMake Error: Parse error in cache file /home/nabeel_okal/CLionProjects/BMS-master/cmake-build-debug/CMakeCache.txt on line 414. Offending entry: <<<<<<< HEAD
-CMake Error: Parse error in cache file /home/nabeel_okal/CLionProjects/BMS-master/cmake-build-debug/CMakeCache.txt on line 426. Offending entry: >>>>>>> 6daea415aefad1cc1888666804a13fd4fc92510b
-CMake Error: Parse error in cache file /home/nabeel_okal/CLionProjects/BMS-master/cmake-build-debug/CMakeCache.txt on line 442. Offending entry: <<<<<<< HEAD
-CMake Error: Parse error in cache file /home/nabeel_okal/CLionProjects/BMS-master/cmake-build-debug/CMakeCache.txt on line 446. Offending entry: >>>>>>> 6daea415aefad1cc1888666804a13fd4fc92510b
-CMake Error: Parse error in cache file /home/nabeel_okal/CLionProjects/BMS-master/cmake-build-debug/CMakeCache.txt on line 455. Offending entry: <<<<<<< HEAD
-CMake Error: Parse error in cache file /home/nabeel_okal/CLionProjects/BMS-master/cmake-build-debug/CMakeCache.txt on line 461. Offending entry: >>>>>>> 6daea415aefad1cc1888666804a13fd4fc92510b
-CMake Error: Parse error in cache file /home/nabeel_okal/CLionProjects/BMS-master/cmake-build-debug/CMakeCache.txt on line 486. Offending entry: <<<<<<< HEAD
-CMake Error: Parse error in cache file /home/nabeel_okal/CLionProjects/BMS-master/cmake-build-debug/CMakeCache.txt on line 509. Offending entry: >>>>>>> 6daea415aefad1cc1888666804a13fd4fc92510b
-CMake Error: Parse error in cache file /home/nabeel_okal/CLionProjects/BMS-master/cmake-build-debug/CMakeCache.txt on line 538. Offending entry: <<<<<<< HEAD
-CMake Error: Parse error in cache file /home/nabeel_okal/CLionProjects/BMS-master/cmake-build-debug/CMakeCache.txt on line 542. Offending entry: >>>>>>> 6daea415aefad1cc1888666804a13fd4fc92510b
-CMake Error: The current CMakeCache.txt directory /home/nabeel_okal/CLionProjects/BMS-master/cmake-build-debug/CMakeCache.txt is different than the directory c:/Users/Home/CLionProjects/BMS/cmake-build-debug where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt
-CMake Error: The source "/home/nabeel_okal/CLionProjects/BMS-master/CMakeLists.txt" does not match the source "C:/Users/Home/CLionProjects/BMS/CMakeLists.txt" used to generate cache.  Re-run cmake with a different source directory.
+-- The C compiler identification is GNU 13.3.0
+-- The CXX compiler identification is GNU 13.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done (0.7s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/nabeel_okal/CLionProjects/BMS-master/cmake-build-debug

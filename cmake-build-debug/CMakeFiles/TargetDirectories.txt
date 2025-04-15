@@ -1,9 +1,3 @@
-<<<<<<< HEAD
 /home/nabeel_okal/CLionProjects/BMS-master/cmake-build-debug/CMakeFiles/BMS.dir
 /home/nabeel_okal/CLionProjects/BMS-master/cmake-build-debug/CMakeFiles/edit_cache.dir
 /home/nabeel_okal/CLionProjects/BMS-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-=======
-C:/Users/Home/CLionProjects/BMS/cmake-build-debug/CMakeFiles/BMS.dir
-C:/Users/Home/CLionProjects/BMS/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Home/CLionProjects/BMS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
->>>>>>> 6daea415aefad1cc1888666804a13fd4fc92510b
