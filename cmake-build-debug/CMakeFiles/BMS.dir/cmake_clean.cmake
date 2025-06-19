@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/BMS.dir/link.d"
   "BMS"
   "BMS.pdb"
   "CMakeFiles/BMS.dir/Account.cpp.o"

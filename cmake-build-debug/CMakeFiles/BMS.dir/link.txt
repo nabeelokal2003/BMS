@@ -1,1 +1,1 @@
-/usr/bin/c++ -g CMakeFiles/BMS.dir/main.cpp.o CMakeFiles/BMS.dir/Account.cpp.o CMakeFiles/BMS.dir/Bank.cpp.o CMakeFiles/BMS.dir/Customer.cpp.o -o BMS
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/BMS.dir/link.d CMakeFiles/BMS.dir/main.cpp.o CMakeFiles/BMS.dir/Account.cpp.o CMakeFiles/BMS.dir/Bank.cpp.o CMakeFiles/BMS.dir/Customer.cpp.o -o BMS
